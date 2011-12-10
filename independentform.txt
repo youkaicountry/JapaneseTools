@@ -1,0 +1,19 @@
+Independent form is a list of characters representing Japanese characters, 
+numbers, and symbols.
+
+
+
+To support other characters:
+use sp:<identifier>
+
+sp:a
+sp:A
+sp:b
+sp:b
+etc...
+Are English Characters.
+
+sp:k<id>
+Are kanji characters. Not sure what to use to identify Kanji yet...
+
+sp:u<id> are general unicode characters.

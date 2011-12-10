@@ -1,0 +1,15 @@
+type -        the type of word (v3, v2, ai, ana)
+singularity - is it a single word, or possibly a jumble of them?
+
+If type not given, singularity known:
+1.Find possible types of verbs and adjectives
+2.Convert each of those back to dictionary form
+3.Look each of those up in the dictionary
+
+If type not given, singularity not given:
+1.Find possible types of verbs and adjectives
+2.Convert each of those back to dictionary form
+3.Look each of those up in the dictionary
+
+If type known:
+
